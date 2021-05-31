@@ -1,4 +1,4 @@
-# Buds & Blooms 🌹💐🌷🥀🌺🌸🌼🌻
+# Buds & Blooms 🌹🌻
 
 
 ● Tech stack- HTML, CSS, BOOTSTRAPS , JS, PHP, MySQL. <br>
